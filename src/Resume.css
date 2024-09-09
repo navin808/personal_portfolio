@@ -1,0 +1,26 @@
+.Resume h4{
+    color:  #525b88;
+    
+    
+                 }
+   
+                 #Resume h5 {
+                   font-size: 16px;
+                   background: #525b88;
+                   padding: 0px 15px ;
+                   display: inline-block;
+                   font-weight: 600;
+                   margin-bottom: 28px;
+                   margin-top: 1px;
+                   
+                   
+                   color:  #fff;
+                 }
+   
+                 #Resume{
+                   background-color: #fff;
+                   margin-left: 300px;
+                   margin-top: 10px;
+                   
+                   
+                 }

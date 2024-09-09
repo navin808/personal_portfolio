@@ -1,0 +1,56 @@
+ 
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+ */
+  .card {
+    position: relative;
+    margin: 150px auto;
+    width: 450px;
+    padding: 40px;
+    border-radius: 16px;
+    background-color: #f65114;
+  }
+ 
+  
+  .card div {
+    margin-top: 12px;
+  }
+  label {
+    color: #525b88;
+    padding-left: 4px;
+    font-size: 16px;
+  }
+  error {
+    font-size: 10px;
+    color: #102de5;
+  }
+  input {
+    width: 450px;
+    height: 40px;
+    background-color: #edf2f5;
+    font-size: 15px;
+    margin-bottom: 5px;
+    border: 0;
+    border-radius: 5px;
+    padding: 3px;
+    box-shadow: 3px 3px 4px 1px rgba(0, 0, 0, 0.28);
+  }
+  
+  .button {
+    cursor: pointer;
+    width: 160px;
+    color: #fff;
+    height: 40px;
+    background-color: #525b88;
+    border: 0;
+    font-weight: 100;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 0.25rem;
+    margin-top: 14px;
+    padding-left: -155px;
+    margin-left: 110px;
+  }
